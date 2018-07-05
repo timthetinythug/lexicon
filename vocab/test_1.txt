@@ -1,0 +1,18 @@
+11/23/2001
+Interest, 1
+FigHt, 0
+gulp, 1
+***
+
+11/24/2003
+India, 1
+America, 0
+water, 1
+***
+
+11/25/2003
+Earth, 1
+pluto, 0
+mars, 1
+***
+\n
